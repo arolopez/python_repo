@@ -4,5 +4,5 @@ import os
 print(os.getcwd())
 print('hola mundo')
 print('hello')
-input('Ingrese un valor')
+input('Ingrese un valor: ')
 print()
